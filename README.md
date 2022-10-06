@@ -5,7 +5,4 @@ I am providing Sample Code of ESP 8266 Module, Interfacing to the 8051 controlle
 The file is Encoded. 
 you can request a key here bhupendra1122@gmail.com 
 
-Only for, 
-INR 150/- 
-
 Thank you
